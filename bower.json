@@ -1,0 +1,21 @@
+{
+  "name": "jquery.scroll.to.top",
+  "version": "0.0.1",
+  "authors": [
+  ],
+  "main": "dist/jquery.scroll.to.top.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ""
+  },
+  "keywords": [
+    "jquery",
+    "zepto",
+    "scroll"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
